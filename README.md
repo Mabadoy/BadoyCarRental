@@ -116,10 +116,12 @@ The SQLite database consists of the following tables:
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the `LICENSE` file for more details.
 
-## Contact
-
-For any questions or feedback, please contact [your-email@example.com].
-
----
+## Credits
+Developed by: Marc A. Badoy
+Email: 270515588@yoobeestudent.ac.nz
+GitHub: https://github.com/Mabadoy
+LinkedIn: https://www.linkedin.com/in/marc-badoy-33831316b/
+This README provides a comprehensive guide for both users and programmers to understand, install, and use the Badoy Car Rental System.
+It includes all the requested sections, detailing the installation process, system components, usage instructions, known issues, licensing terms, and developer credits, specifically tailored for a Python command-line application using SQLite3.
 
 This README provides a comprehensive guide to setting up and using the Car Rental System. Adjust the content as necessary to fit your specific project details and requirements.
